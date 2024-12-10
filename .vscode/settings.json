@@ -1,0 +1,14 @@
+{
+    "editor.showFoldingControls": "always",
+    "editor.stickyScroll.defaultModel": "foldingProviderModel",
+    "editor.stablePeek": true,
+    "editor.tabCompletion": "onlySnippets",
+    "editor.tabSize": 500,
+    "editor.trimAutoWhitespace": false,
+    "editor.unfoldOnClickAfterEndOfLine": true,
+    "editor.unicodeHighlight.allowedLocales": {
+        "androi": true,
+        "_androi": true,
+        "_chome": true
+    }
+}
